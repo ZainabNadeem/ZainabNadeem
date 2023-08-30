@@ -36,7 +36,7 @@ My experiences and skills will help me with developing, managing, and providing 
 services by using the latest technologies and information systems.
 Also, I have extensive experience in website design, database management, builder Powe PI reports, 
 and email exchange.</pre>
-<h1><em><i>W O R K E X P E R I E N C E:</i></em></h1><br>
+<h1><em><i>WORK EXPERIENCE:</i></em></h1><br>
 
 <h2>system developer</h2><br>
 
