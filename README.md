@@ -42,8 +42,6 @@ and email exchange.</pre>
 
 <h3>YTECH Company (Al-Ruwaishan Group) | 2020 - for now</h3>
 <pre>
-
-
 - Preparing data and reports for the resource system, customer service, and vacations.
 - Analyze salary and wage reports and financial constraints and provide solutions.
 - Create a data flow for the flow of operations according to the customers' desire.
