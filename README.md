@@ -8,7 +8,7 @@
     </h1>
       <br> <a href="https://lh3.googleusercontent.com/a/AAcHTte7-5auuB5-cBwwRleYGn4WATnZLKTEZ81UyaseFfaGD-0=s360-c-no"></a>
     <p>
-   ### Hi there 👋     My Name : Zainab Nadeem Faza'a Al-Shubati
+    Hi there 👋     My Name : Zainab Nadeem Faza'a Al-Shubati
     </p>
     <p> I was a Programer </p>
 
@@ -64,9 +64,9 @@ and email exchange.</pre>
 <br />
 
 <br>
-    ## 🚀 Skills
+   <h1>🚀 Skills</h1> 
 
-### Languages
+<h2>Languages</h2>
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/powered-by-cfml.svg">
 <img align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
@@ -78,7 +78,7 @@ and email exchange.</pre>
 <br />
 <br />
 
-### Backend Frameworks
+<h2> Backend Frameworks</h2>
 <img align="left" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
 <img align="left" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/built-with-coldbox.svg">
@@ -87,7 +87,7 @@ and email exchange.</pre>
 <br />
 <br />
 
-### JS Frameworks
+<h2>JS Frameworks</h2> 
 <img align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img align="left" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
 
@@ -97,7 +97,7 @@ and email exchange.</pre>
 <br />
 <br />
 
-### Style Frameworks
+<h2>Style Frameworks</h2> 
 <img  align="left" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img  align="left" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
 <img  align="left" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
@@ -105,7 +105,7 @@ and email exchange.</pre>
 
 <br />
 <br />
-### Database
+<h2>Database</h2> 
 
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
